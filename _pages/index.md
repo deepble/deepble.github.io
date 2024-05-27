@@ -4,9 +4,8 @@ avatar: true
 permalink: /
 ---
 <h1 align="center">
-portfolio
-
-
+portfolio   
+    
 </h1>
 
 ## 🌐 Interests Area
