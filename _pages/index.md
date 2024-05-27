@@ -11,18 +11,18 @@ permalink: /
 ---
 
 ## 🅿️ Education
-- [2021.03~] Undergraduate in Department of Convergence Security Engineering in Sungshin Women's University
+- [2021.03 ~] Undergraduate in Department of Convergence Security Engineering in Sungshin Women's University
 
 
 ---
 
 ## Club
-#### HASH
+#### [2023.02 ~ 2024.01] HASH
 - 홍보부 부장
 - 교육부 문제제작팀
 - TF팀
 
-#### GRAPE
+#### [2024.03 ~] GRAPE
   
 
 ---
