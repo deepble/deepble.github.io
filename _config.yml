@@ -2,7 +2,7 @@
 title: DEEPBLE
 email: hnjh211212@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  한나의 포트폴리오 페이지입니다.
+  This is Hanna's portfolio page.
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
 url: "http://deepble.githun.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
