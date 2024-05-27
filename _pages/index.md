@@ -23,12 +23,6 @@ permalink: /
 
 ---
 
-## Activities
-
-## Lab
-- [2023.01 ~ 2023.12] CSELab
-
-
 ## Club
 #### [2023.02 ~ 2024.01] HASH (HAcking in SungsHin)
 - 홍보부 부장
@@ -37,24 +31,25 @@ permalink: /
 
 #### [2024.03 ~] GRAPE
 
+---
 
-
-## 교육
+## external Activities
 - [2023.07] KISA 침해사고 대응훈련
 - [2023.09 ~ 2024.02] WhiteHat School (화이트햇 스쿨 1기)
 
+---
 
-
-## 연구활동
+## Research Activities
+- [2023.01 ~ 2023.12] CSELab
 - [2023.04 ~ 2023.10] WESET 여대학원생 공학연구팀제(심화과정)
 - [2023.08] Analyzing security vulnerabilities of MyData services and researching ways to improve them, UROP in Sungshin Women's University
 - [2023.11] Han-Na Jang, So-Hyun Park and Il-Gu Lee, System Design of a Memory-efficient Cloud-based Personal Data Storage, Korea Convergence Security Association
 - [2023.11] So-Hyun Park, Yu-Jin Hwang, Han-Na Jang, Ye-Eun Shin and Il-Gu Lee, Privacy-preserving Digital Identity System for Drone Remote Identification, Korea Convergence Security Association
 - [2024.05] Gyu-Jeong Jin, Jung-Woo Im and Han-Na Jang, Automatic Exploit Generation and Enhancement using NLP-based Techniques, KOREA INSTITUTE OF INFORMATION SECURITY & CRYPTOLOGY
 
+---
 
-
-## 봉사활동
+## Volunteer
 - [2023.11] 글빛도서관 코드스페이스
 
 ---
