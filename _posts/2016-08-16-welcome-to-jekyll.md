@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "BLOG"
-date:   2024.05.27
+title:  "Deepble's Tistory Blog"
 categories: BLOG
 redirect_to: 
   - https://deepble.tistory.com/
