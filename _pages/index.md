@@ -8,8 +8,26 @@ permalink: /
 - Security Consulting (보안 컨설팅)
 - WEB 3.0
 
-
 ---
 
 ## 🅿️ Education
-Undergraduate in Department of Convergence Security Engineering in Sungshin Women's University
+- [2021.03~] Undergraduate in Department of Convergence Security Engineering in Sungshin Women's University
+
+
+---
+
+## Club
+- HASH
+  -- 홍보부 부장
+  -- 교육부 문제제작팀
+  -- 웹 TF팀
+  
+
+---
+
+## 봉사활동
+- 글빛도서관
+
+
+
+
