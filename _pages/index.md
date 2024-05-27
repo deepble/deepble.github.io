@@ -25,6 +25,10 @@ permalink: /
 
 ## Activities
 
+## Lab
+- [2023.01 ~ 2023.12] CSELab
+
+
 ## Club
 #### [2023.02 ~ 2024.01] HASH (HAcking in SungsHin)
 - 홍보부 부장
