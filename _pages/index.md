@@ -17,18 +17,22 @@ permalink: /
 ---
 
 ## Club
-- HASH
--   홍보부 부장
--   교육부 문제제작팀
--   TF팀
+#### HASH
+- 홍보부 부장
+- 교육부 문제제작팀
+- TF팀
 
-- GRAPE
+#### GRAPE
   
 
 ---
 
 ## 봉사활동
 - 글빛도서관
+
+
+## Activities 교육
+
 
 
 
